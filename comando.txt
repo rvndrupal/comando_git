@@ -122,3 +122,5 @@ trabajando con calma
 46.- git stash list  -> muestra todods los trabajos pendientes
 
 47.- git stash pop -> recuperar los stash
+
+48.-git stash drop -> borrar el stash en conflicto Nota->primero resolver el conflicto
