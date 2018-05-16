@@ -124,3 +124,9 @@ trabajando con calma
 47.- git stash pop -> recuperar los stash
 
 48.-git stash drop -> borrar el stash en conflicto Nota->primero resolver el conflicto
+
+49.- git stash apply stash@{1}  recupera un stash especifico
+
+50.- git show stash ->Muestra informacion mas detallada
+
+51.-git stash save "Nombre del stash "
