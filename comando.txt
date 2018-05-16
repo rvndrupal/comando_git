@@ -65,3 +65,16 @@
 28.- git reset --hard  ee63fda    -> te mueve a un punto de la historia  MUY importante
 
 29.- git  reflog   --> TIENE EL CONTROL DE TODOS LOS CAMBIOS EN EL REPO MUY IMPORTANTES
+
+
+###### MODIFICAR Y BORRAR ARCHIVO DESDE GIT ###############
+
+30.- git mv  (archivo)  (nuevo nombre)
+
+31.- git rm (archivo)
+
+32.- se se borra un archivo desde un Editor  se hace
+git add -u y luego el proceso normal
+
+33.- Al archivo gitignore sirve para que ignore a git
+
