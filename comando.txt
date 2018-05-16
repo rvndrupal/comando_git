@@ -101,3 +101,14 @@ git checkout master
     git merge (rama a fucionar)  tenemos que modificar los cambios desde los archivos.
 
 
+##########  CREANDO TAGS ##########
+
+40.-git tag super
+
+41.- git tag
+
+42.- git tag -d super
+
+43.-git tag -a v1.0.0 -m "Version 1.0.0"
+
+44.-git tag -a v0.1.0 fc917a7 -m "Version 0.1.0 alpha"
