@@ -1,0 +1,14 @@
+1.- git config --global user.name "rodrigo villanueva"  (Ejemplo)
+2.- git config --global user.email "rodrigodrupal1@gmail.com"  (Ejemplo)
+
+3.-  git config --global -e   -> para saver  para salirse es :q + enter
+ 
+4.- Inicar proyect estando en la carpeta del proyecto  -> git init
+
+5.- git status   -> muestra todo 
+
+6.- agregar todo  ->  git add .
+
+7.-git commit -m  "Primer commit"   -> se hace el commit
+
+8.- Recuperar hasta donde estas muy importante  ->  git checkout -- .
