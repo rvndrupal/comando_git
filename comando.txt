@@ -33,6 +33,19 @@
 
 17.- git config --global alias.s  "status -s -b"
 
+18.- git config --global -l  -> Muestra todos los alias
+
+19.- git config --global alias.alias  "config --global -l"
 
 
 ##  Creando alias######
+
+#---------Restaurar ---------#
+
+20.- git diff  -> muestra las diferencias de los archivos lo que hicimos
+
+21.- git diff --staged  -> verifica los que estan en stage
+
+22.-git reset HEAD (Nombre del archivo)
+
+23.- git checkout -- (Nombre del archivo)
