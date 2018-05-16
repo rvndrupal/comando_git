@@ -98,6 +98,6 @@ git checkout master
 38.- git checkout -b rama-nueva  -> crea la rama y se mueve a ella
 
 39.- entando en la rama master hacemos una unión automatica con
-    git merge (rama a fucionar)
+    git merge (rama a fucionar)  tenemos que modificar los cambios desde los archivos.
 
 
