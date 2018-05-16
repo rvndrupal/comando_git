@@ -12,3 +12,9 @@
 7.-git commit -m  "Primer commit"   -> se hace el commit
 
 8.- Recuperar hasta donde estas muy importante  ->  git checkout -- .
+
+9.- git log  -> Muestra todos los commits
+
+10.- Agregar de un solo tipo de archivo -> git add *.png
+
+11.-Quitar de agregar con -> git reset *.xml    ejemplo
