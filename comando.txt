@@ -49,3 +49,11 @@
 22.-git reset HEAD (Nombre del archivo)
 
 23.- git checkout -- (Nombre del archivo)
+
+
+24.-  git commit -am "Actuliza cuatro "  ->  -am sube y hace el commit 
+
+25.- git commit --amend -m "Cambio"  -> cambia el ultimo mensaje
+
+26.- git reset --soft HEAD^  -> se agrega el cambio al ultimo commit
+
