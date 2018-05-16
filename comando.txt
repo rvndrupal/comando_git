@@ -78,3 +78,26 @@ git add -u y luego el proceso normal
 
 33.- Al archivo gitignore sirve para que ignore a git
 
+############ CREACION DE RAMAS #####################
+
+34.-git branch  rama-villanos
+para verla git branch
+
+35.-git checkout rama-villanos -> me paso a esta rama
+
+36.-Unir la rama villanos a la master 
+git diff rama-villanos master   -> vemos las diferencias
+
+37.- pasarte  a la rama master primero
+git checkout master
+
+-> git merge rama-villanos   -> con eso une la rama-villanos a master
+
+->buena practica borrar la rama -> git branch -d rama-villanos
+
+38.- git checkout -b rama-nueva  -> crea la rama y se mueve a ella
+
+39.- entando en la rama master hacemos una unión automatica con
+    git merge (rama a fucionar)
+
+
