@@ -57,3 +57,11 @@
 
 26.- git reset --soft HEAD^  -> se agrega el cambio al ultimo commit
 
+
+######VIAJE EN EL TIEMPO #########3
+
+27.- git reset --soft acd24d9        Modificar un commit especifico
+
+28.- git reset --hard  ee63fda    -> te mueve a un punto de la historia  MUY importante
+
+29.- git  reflog   --> TIENE EL CONTROL DE TODOS LOS CAMBIOS EN EL REPO MUY IMPORTANTES
