@@ -18,3 +18,21 @@
 10.- Agregar de un solo tipo de archivo -> git add *.png
 
 11.-Quitar de agregar con -> git reset *.xml    ejemplo
+
+12.-git log --oneline  -> muestra todo en una linea
+
+13.-git log --oneline --decorate --all --graph   -> muestra todo con ramas 
+
+14.- git status -s   -> muestra lo que hay que subir mas corto
+
+15.- git status -s -b  -> muestra corto y la rama en la que estamos
+
+##### Crando alias ########
+
+16.-git config --global alias.lg  "log --oneline --decorate --all --graph"  -> cuando pongamos lg se activa
+
+17.- git config --global alias.s  "status -s -b"
+
+
+
+##  Creando alias######
