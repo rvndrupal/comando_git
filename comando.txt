@@ -112,3 +112,13 @@ git checkout master
 43.-git tag -a v1.0.0 -m "Version 1.0.0"
 
 44.-git tag -a v0.1.0 fc917a7 -m "Version 0.1.0 alpha"
+
+
+############  STAGS  ####################
+
+45.-git stash  -> hace unresplado hasta donde esta estable y puedes seguir
+trabajando con calma
+
+46.- git stash list  -> muestra todods los trabajos pendientes
+
+47.- git stash pop -> recuperar los stash
