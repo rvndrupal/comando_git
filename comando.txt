@@ -167,4 +167,10 @@ Pasamos a la rama
 
 60.-Subir a GITHUB  -> git push   -> despues de hacel el commit normal
 
+#####################MUY IMPORTANTE ###################################
+61.-Para saber como estan los cambios -> git fetch despues  decargar todo lo del repo
+git pull   y despues subimos nuestros nuevos cambios   git push
+
+#####################MUY IMPORTANTE ###################################
+
 
