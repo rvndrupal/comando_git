@@ -146,3 +146,23 @@ Pasamos a la rama
 
 -> git branch -d rama-misones-completadas
 
+
+################ QUITAR UN COMMIT DE VARIOS ######################
+
+53.- git checkout -- (el commit a quitar)
+
+###############SUBIR A GITHUB TIENE EL CORREO ACTUAL Y LA CONTRASEÑA###########
+
+54.-git remote add origin https://github.com/rvndrupal/web6.git  -> pasamos la direccion
+
+55.- git remote o git remote -v
+
+56.-git push -u origin master -> subir el origin de la rama master
+
+57.- Subir los tags  -> git push --tags
+
+58.- Bajamos cambios del repo -> git pull
+
+59.- clonar un Repositorio -> git clone https://github.com/rvndrupal/web6.git (titulo que quieras)
+
+
