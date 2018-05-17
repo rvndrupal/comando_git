@@ -165,4 +165,6 @@ Pasamos a la rama
 
 59.- clonar un Repositorio -> git clone https://github.com/rvndrupal/web6.git (titulo que quieras)
 
+60.-Subir a GITHUB  -> git push   -> despues de hacel el commit normal
+
 
