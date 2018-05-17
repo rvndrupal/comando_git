@@ -130,3 +130,19 @@ trabajando con calma
 50.- git show stash ->Muestra informacion mas detallada
 
 51.-git stash save "Nombre del stash "
+
+
+########## RABASE EVITA ERRORES EN LOS COMITS LOS PONE ARRIBA PARA UNIR LAS DOS RAMAS ############3
+
+52.-git checkout rama-misiones-completadas
+Pasamos a la rama 
+-> git rebase master    -> rebasa la rama maestra
+
+->por ultimo unimos las ramas -> pasamos a la rama maestra git checkout master
+
+-> git merge  rama-misones-completadas
+
+-> Ya podemos borrar la rama.
+
+-> git branch -d rama-misones-completadas
+
